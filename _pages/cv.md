@@ -13,7 +13,7 @@ Justin Farmer
 ======
 Department of Economics, Michigan State University, East Lansing, MI  
 farmer29@msu.edu  
-*Last updated: September 2026*
+*Last updated: October 2026*
 
 Fields
 ======
@@ -37,6 +37,7 @@ Seminars and conferences
 ======
 * 2026: Session Chair, Midwest Economics Association Annual Meeting
 * 2026: Presenter, Midwest Economics Association Annual Meeting
+* 2026: Presenter, AI in the Economics Classroom Working Conference, Western Michigan University
 
 Fellowships and awards
 ======
