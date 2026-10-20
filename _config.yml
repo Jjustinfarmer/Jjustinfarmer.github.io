@@ -24,9 +24,9 @@ repository               : "Jjustinfarmer/Jjustinfarmer.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Justin Farmer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Ph.D. Candidate from Michigan State University researching information economics, inequality, and fairness with a focus on teaching"
   location         : "East Lansing, MI"
   employer         : "Michigan State University"
   uri              : # URL
